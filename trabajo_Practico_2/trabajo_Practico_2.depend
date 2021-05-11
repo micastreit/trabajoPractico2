@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1620757452 source:c:\users\g5\desktop\trabajo_practico_2\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informes.h"
+
+1620757180 c:\users\g5\desktop\trabajo_practico_2\informes.h
+	"empleado.h"
+
+1620747056 c:\users\g5\desktop\trabajo_practico_2\empleado.h
+
+1620760465 source:c:\users\g5\desktop\trabajo_practico_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
+1620760829 source:c:\users\g5\desktop\trabajo_practico_2\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
+1620760600 source:c:\users\g5\desktop\trabajo_practico_2\datawherehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawherehouse.h"
+
+1620760957 c:\users\g5\desktop\trabajo_practico_2\datawherehouse.h
+	"empleado.h"
+
