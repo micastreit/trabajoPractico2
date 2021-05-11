@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1620678012 source:c:\users\g5\desktop\trabajopractico2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"sector.h"
+
+1620677959 c:\users\g5\desktop\trabajopractico2\empleado.h
+	"sector.h"
+
+1620678038 source:c:\users\g5\desktop\trabajopractico2\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"sector.h"
+
+1620676253 source:c:\users\g5\desktop\trabajopractico2\sector.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sector.h"
+
+1620677544 c:\users\g5\desktop\trabajopractico2\sector.h
+
